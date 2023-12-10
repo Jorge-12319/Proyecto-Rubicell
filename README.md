@@ -6,7 +6,7 @@ Proyecto en Spring y React 2023 Venta de celulares con Spring Security JWT
 
 
 
--en application.properties añadir email y password de aplicaciondesde la cuenta de google
+-en application.properties añadir email y password de aplicacion desde la cuenta de google
 
 
 
